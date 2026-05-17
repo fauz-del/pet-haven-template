@@ -845,17 +845,7 @@ function initMobileMenu() {
   });
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-  const biz = businesses[ACTIVE_BIZ];
-  if (!biz) {
-    console.warn(`No config found for "${ACTIVE_BIZ}"`);
-    return;
-  }
-
-  injectBusinessData(biz);
-  initMobileMenu();
-});
-
+// ─── SCROLL REVEAL ───────────────────────────
 function initScrollReveal() {
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
@@ -871,6 +861,7 @@ function initScrollReveal() {
   });
 }
 
+// ─── NAVBAR SCROLL ───────────────────────────
 function initNavbarScroll() {
   const navbar = document.querySelector('.navbar');
   if (!navbar) return;
@@ -879,11 +870,47 @@ function initNavbarScroll() {
   }, { passive: true });
 }
 
+// ─── SMOOTH SCROLL ───────────────────────────
+function initSmoothScroll() {
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      const target = document.querySelector(this.getAttribute('href'));
+      if (!target) return;
+      e.preventDefault();
+      target.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+      });
+    });
+  });
+}
+
+// ─── PAGE FADE IN ────────────────────────────
+function initPageFade() {
+  document.body.style.opacity = '0';
+  document.body.style.transition = 'opacity 0.5s ease';
+  setTimeout(() => {
+    document.body.style.opacity = '1';
+  }, 50);
+}
+
+// ─── SINGLE INIT ─────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
-  const biz = businesses[ACTIVE_BIZ];
-  if (!biz) return;
+
+  // Read ?biz= from URL — falls back to ACTIVE_BIZ
+  const params = new URLSearchParams(window.location.search);
+  const bizKey = params.get('biz') || ACTIVE_BIZ;
+  const biz    = businesses[bizKey];
+
+  if (!biz) {
+    console.warn(`No config found for "${bizKey}"`);
+    return;
+  }
+
+  initPageFade();
   injectBusinessData(biz);
   initMobileMenu();
-  initScrollReveal(); 
-  initNavbarScroll();   
+  initScrollReveal();
+  initNavbarScroll();
+  initSmoothScroll();
 });
