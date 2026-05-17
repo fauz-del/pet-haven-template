@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"  />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <main>
+
+<nav class="navbar">
+  <div class="logo">Pet<span>Haven</span></div>
+  <ul class="nav-links">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Shop</a></li>
+    <li><a href="#">Services</a></li>
+  </ul>
+  <div class="menu-toggle" id="mobile-toggle">
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+</nav>
+
+
+<section class="hero" id="hero-section">
+  <div class="hero-container">
+    <div class="hero-text reveal">
+      <h1 id="hero-title">The Best Care <br><span id="hero-subtitle">For Your Pets</span></h1>
+      <p id="hero-description">
+        Your furry friends deserve a world filled with high-quality nutrition, cozy comfort, and endless tail-wagging joy. From organic treats to the softest beds, we provide everything your best friend needs to thrive and feel loved.
+      </p>
+      <button class="btn-primary" id="hero-cta">Shop Now</button>
+    </div>
+
+    <div class="hero-visual">
+    
+      <div class="thought-cloud">
+        <div class="main-bubble" id="thought-bubble">
+          <img src="assets/pet_store_img/dogtreat_img.jpg" class="thought-item" id="thought-image" alt="Featured Item">
+        </div>
+        <div class="med-bubble"></div>
+        <div class="small-bubble"></div>
+      </div>
+
+      <div class="dog-bubble" id="main-visual-bubble">
+        <img src="assets/pet_store_img/transparent_pet_img.png" alt="Business Visual" class="hero-dog" id="hero-main-image">
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="badges-section reveal-stagger" id="badges-container">
+  <div class="badge-item">
+    <div class="badge-icon"><i class="fas fa-paw"></i></div>
+    <h3 id="badge-1-title">Premium Quality</h3>
+    <p id="badge-1-desc">Hand-picked toys and nutrition for your furry friends.</p>
+  </div>
+  <div class="badge-item">
+    <div class="badge-icon"><i class="fas fa-bone"></i></div>
+    <h3 id="badge-2-title">Organic Treats</h3>
+    <p id="badge-2-desc">100% natural ingredients with no hidden nasties.</p>
+  </div>
+  <div class="badge-item">
+    <div class="badge-icon"><i class="fas fa-cat"></i></div>
+    <h3 id="badge-3-title">Expert Advice</h3>
+    <p id="badge-3-desc">Our team loves animals as much as you do.</p>
+  </div>
+  <div class="badge-item">
+    <div class="badge-icon"><i class="fas fa-truck-moving"></i></div>
+    <h3 id="badge-4-title">Fast Delivery</h3>
+    <p id="badge-4-desc">Free shipping on all Manchester orders over £30.</p>
+  </div>
+</section>
+
+
+<section class="about-section bento-grid reveal-stagger">
+  <div class="bento-item item-large" id="about-main-card">
+    <div class="bento-content">
+      <span class="tag">Our Story</span>
+      <h2 id="about-title">A Passion for Paws</h2>
+      <p id="about-desc">Founded in the heart of Manchester, we started with a simple mission: to treat every pet like family.</p>
+    </div>
+    <img src="assets/pet_store_img/pet_store_1.jpg" alt="Store" id="about-img-1">
+  </div>
+
+  <div class="bento-item item-small" id="about-sub-1">
+    <img src="assets/pet_store_img/pet_bunny_2.jpg" alt="Small Pets" id="about-img-2">
+    <div class="bento-overlay"><h4>Small Wonders</h4></div>
+  </div>
+
+  <div class="bento-item item-small" id="about-sub-2">
+    <img src="assets/pet_store_img/pet_bird.jpg" alt="Birds" id="about-img-3">
+    <div class="bento-overlay"><h4>Acre of Flight</h4></div>
+  </div>
+
+  <div class="bento-item item-medium" id="about-sub-3">
+    <div class="bento-content">
+      <i class="fas fa-heart"></i>
+      <h4>Expert Grooming</h4>
+      <p>Professional care for a shiny coat.</p>
+    </div>
+    <img src="assets/pet_store_img/pet_store_3.jpg" alt="Grooming" id="about-img-4">
+  </div>
+</section>
+
+
+<section class="list-info-section" id="info-parallax">
+  <div class="info-bg-overlay"></div>
+  <div class="info-content reveal">
+    <h2 id="info-title">Why We Are Different</h2>
+    <div class="info-grid">
+      <div class="info-card">
+        <span class="info-num">01</span>
+        <p id="info-point-1">Locally sourced organic ingredients for all treats.</p>
+      </div>
+      <div class="info-card">
+        <span class="info-num">02</span>
+        <p id="info-point-2">DBS-checked staff with certified animal first-aid training.</p>
+      </div>
+      <div class="info-card">
+        <span class="info-num">03</span>
+        <p id="info-point-3">Community focused: supporting local Manchester shelters.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="about2-section" id="about2">
+  <div class="about2-inner">
+
+    <div class="about2-img-wrap reveal">
+      <img src="assets/pet_store_img/pet_store_4.jpg" alt="Our store" class="about2-img-main" id="about2-main-img">
+      <img src="assets/pet_store_img/pet_store_7.jpg" alt="Happy pet" class="about2-img-accent" id="about2-accent-img">
+      <div class="about2-badge">
+        <strong id="about2-years">10+</strong>
+        <span id="about2-years-label">Years of care</span>
+      </div>
+    </div>
+
+  
+    <div class="about2-text reveal">
+      <span class="about2-tag" id="about2-tag">About Us</span>
+      <h2 id="about2-title">We've Been Caring for <span>Pets Since 2015</span></h2>
+      <p id="about2-desc">From a small family shop in Salford to Manchester's most trusted pet store — everything we do is driven by one simple belief: every pet deserves to feel loved, healthy, and happy.</p>
+      <div class="about2-features reveal-stagger" id="about2-features">
+      </div>
+
+      <div class="about2-stats reveal-stagger" id="about2-stats">
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="review-section">
+  <div class="review-header reveal">
+    <span class="tag">Testimonials</span>
+    <h2>Wagging Tails & Happy Owners</h2>
+  </div>
+  <div class="review-grid reveal-stagger" id="reviews-container">
+  
+  </div>
+</section>
+
+
+<section class="contact-section">
+  <div class="contact-card reveal">
+    <div class="contact-info">
+      <h3>Get In Touch</h3>
+      <p>Have a question about nutrition or toys? We're here to help!</p>
+      <div class="c-detail"><i class="fas fa-phone"></i> <span class="phone-text"></span></div>
+      <div class="c-detail"><i class="fas fa-envelope"></i> <span id="footer-email"></span></div>
+      <div class="c-detail"><i class="fas fa-map-marker-alt"></i> <span id="biz-location"></span></div>
+    </div>
+    <form class="contact-form" onsubmit="handleSubmit(event)">
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Your Email" required>
+      <textarea placeholder="Tell us about your pet..."></textarea>
+      <button type="submit" class="btn-primary">Send Message</button>
+      <div id="fs" style="display:none; color: var(--primary-warm); margin-top:10px;">Message sent with a wag!</div>
+    </form>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="footer-container">
+    <div class="footer-brand reveal">
+      <div class="logo">
+        <span id="footer-biz-name-1">PAW</span> <span id="footer-biz-name-2">PALACE</span>
+      </div>
+      <p id="footer-desc">Providing premium care, organic nutrition, and cozy comfort for Manchester's best friends since 2015.</p>
+      <div class="footer-socials">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-whatsapp"></i></a>
+      </div>
+    </div>
+
+    <div class="footer-links">
+      <h4>Quick Links</h4>
+      <ul>
+        <li><a href="#hero-section">Home</a></li>
+        <li><a href="#badges-container">Benefits</a></li>
+        <li><a href="#about-main-card">Our Story</a></li>
+        <li><a href="#reviews-container">Reviews</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-newsletter">
+      <h4>Newsletter</h4>
+      <p>Get pet care tips and exclusive deals!</p>
+      <div class="newsletter-box">
+        <input type="email" placeholder="Your Email">
+        <button class="btn-primary-small"><i class="fas fa-paper-plane"></i></button>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; <span id="current-year"></span> <span class="footer-name-full">Paw Palace</span>. All Rights Reserved.</p>
+  </div>
+</footer>
+
+  </main>
+  <script src="script.js"></script>
+</body>
+
+</html>
