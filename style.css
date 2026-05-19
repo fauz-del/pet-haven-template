@@ -769,7 +769,7 @@ html {
 
   /* Bento about */
   .about-section {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
     grid-template-rows: auto;
     gap: 10px;
     padding: 28px 6%;

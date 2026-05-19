@@ -324,7 +324,7 @@ const businesses = {
 
     heroTitle: "Salford's Most Trusted<br><span>Pet Supplies Shop.</span>",
     heroDesc: "209 five-star reviews. Agecroft Pet Supplies has been serving Salford's pet owners with quality food, accessories, and expert advice since 2010.",
-    heroImg: "assets/pet_store_img/transparent_cat.jpeg",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
     thoughtImg: "assets/pet_store_img/Cat_treat_img.jpg",
     ctaText: "Visit Us Today",
     phone: "07549 227304",
@@ -486,7 +486,7 @@ const businesses = {
 
     heroTitle: "Stockport's Favourite<br><span>Independent Pet Store.</span>",
     heroDesc: "184 five-star reviews. Maggie's Pet Store is Stockport's most loved independent pet shop — stocking premium food, accessories and gifts for dogs, cats and small pets.",
-    heroImg: "assets/pet_store_img/transparent_cat.jpeg",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
     thoughtImg: "assets/pet_store_img/Cat_treat_img.jpg",
     ctaText: "Shop Now",
     phone: "0161 483 8194",
@@ -648,7 +648,7 @@ const businesses = {
 
     heroTitle: "Bury's Best Loved<br><span>Local Pet Store.</span>",
     heroDesc: "239 five-star reviews. Amber Pets is the friendly local pet store serving Bury and Rochdale with premium food, accessories, and expert advice since 2008.",
-    heroImg: "assets/pet_store_img/transparent_cat.jpeg",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
     thoughtImg: "assets/pet_store_img/Cat_treat_img.jpg",
     ctaText: "Shop With Us",
     phone: "01706 350378",
