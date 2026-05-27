@@ -713,7 +713,411 @@ const businesses = {
       { label: "Reviews",  href: "#reviews-container" }
     ],
     footerNewsletterDesc: "Local pet care tips and exclusive deals!"
- }
+ },
+ 
+ // ============================================================
+// TUESDAY NEW OUTREACH — PET STORE CONFIGS
+// Fauzie Web Development & Design
+// Template: https://fauz-del.github.io/pet-haven-template/
+// ============================================================
+
+"hg_pets": {
+    theme: "pet",
+    name1: "HG",
+    name2: "PETS",
+    color: "#7b3f00",
+    bgColor: "#FFF8F0",
+    accentColor: "#F5DEB3",
+    textColor: "#3e1f00",
+
+    heroTitle: "Harrogate's Independent<br><span>Pet Shop & Dog Groomer.</span>",
+    heroDesc: "HG Pets — Harrogate's most loved independent pet shop. Expert grooming, quality supplies, and genuine care for every animal. 113 five-star reviews.",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/Cat_treat_img.jpg",
+    ctaText: "Visit Our Store",
+    phone: "Ask in store",
+    email: "hello@hgpets.co.uk",
+    locationName: "Harrogate, North Yorkshire",
+
+    badges: [
+        { icon: "fa-store",        title: "Independent",       desc: "Locally owned and run — not a chain, not a franchise." },
+        { icon: "fa-cut",          title: "Dog Grooming",      desc: "Professional grooming service for all breeds, big and small." },
+        { icon: "fa-star",         title: "113 Reviews",       desc: "Harrogate's most trusted independent pet shop." },
+        { icon: "fa-heart",        title: "Animal Lovers",     desc: "Run by pet owners who genuinely care about your animals." }
+    ],
+
+    aboutTitle: "Harrogate's Favourite Pet Shop",
+    aboutDesc: "HG Pets was born from a passion for animals and a belief that independent shops do it better. From quality food to expert grooming — we've got your pet covered.",
+    aboutImgs: [
+        "assets/pet_store_img/pet_store_1.jpg",
+        "assets/pet_store_img/bird_img.jpg",
+        "assets/pet_store_img/pet_bunny_2.jpg",
+        "assets/pet_store_img/pet_store_3.jpg"
+    ],
+
+    infoTitle: "Why Harrogate Chooses HG Pets",
+    infoPoints: [
+        "113 perfect five-star reviews from happy Harrogate pet owners.",
+        "Full dog grooming salon — professional results for all breeds.",
+        "Independent stock you won't find in Pets At Home or online chains."
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+
+    about2Tag:        "About Us",
+    about2Title:      "Independent. Local. <span>Animal-Obsessed.</span>",
+    about2Desc:       "We started HG Pets because Harrogate deserved a proper independent pet shop — one run by people who love animals as much as you do. Every product is chosen with care, and every customer leaves with exactly what their pet needs.",
+    about2Years:      "113",
+    about2YearsLabel: "Five-star reviews",
+    about2MainImg:    "assets/pet_store_img/pet_store_2.jpg",
+    about2AccentImg:  "assets/pet_store_img/pet_bunny.jpg",
+    about2Features: [
+        { icon: "fa-cut",   title: "Grooming Salon",     desc: "Expert dog grooming for all breeds — book in store or by phone." },
+        { icon: "fa-store", title: "Quality Supplies",   desc: "Hand-picked food, toys, and accessories from trusted brands." },
+        { icon: "fa-heart", title: "Community First",    desc: "Proud to support Harrogate's pet-loving community every day." }
+    ],
+    about2Stats: [
+        { value: "113+",  label: "5-Star reviews"  },
+        { value: "5.0★",  label: "Google rating"   },
+        { value: "All",   label: "Breeds groomed"  }
+    ],
+
+    reviews: [
+        { name: "Rachel T.", text: "The best independent pet shop in Harrogate by a mile. Staff are so knowledgeable and genuinely helpful." },
+        { name: "Simon K.",  text: "Took my dog for grooming — absolutely brilliant result. Will never go anywhere else." },
+        { name: "Diane W.",  text: "Love this shop. Always stocking something new and the advice is always spot on." }
+    ],
+
+    footerDesc: "Harrogate's independent pet shop and dog grooming salon. 113 five-star reviews — because we treat every animal like our own.",
+    footerBizName1: "HG",
+    footerBizName2: "PETS",
+    footerLinks: [
+        { label: "Home",      href: "#hero-section"       },
+        { label: "Services",  href: "#badges-container"   },
+        { label: "Our Story", href: "#about-main-card"    },
+        { label: "Reviews",   href: "#reviews-container"  }
+    ],
+    footerNewsletterDesc: "Get pet care tips and exclusive deals from HG Pets!"
+},
+
+// ------------------------------------------------------------
+
+"audenshaw_pets": {
+    theme: "pet",
+    name1: "AUDENSHAW",
+    name2: "PET SUPPLIES",
+    color: "#2e7d32",
+    bgColor: "#F1F8E9",
+    accentColor: "#DCEDC8",
+    textColor: "#1b5e20",
+
+    heroTitle: "Your Local Pet Shop<br><span>in Audenshaw, Manchester.</span>",
+    heroDesc: "Audenshaw Pet Supplies — 5-star rated and loved by the local community. Quality food, accessories, and expert advice for every pet owner in Tameside.",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/Cat_treat_img.jpg",
+    ctaText: "Visit Our Store",
+    phone: "Ask in store",
+    email: "hello@audenshawpets.co.uk",
+    locationName: "Audenshaw, Manchester",
+
+    badges: [
+        { icon: "fa-map-marker-alt", title: "Truly Local",      desc: "Right in the heart of Audenshaw — your neighbourhood pet shop." },
+        { icon: "fa-star",           title: "96 Reviews",        desc: "96 perfect five-star reviews from local pet owners." },
+        { icon: "fa-paw",            title: "All Pets",          desc: "Dogs, cats, birds, fish, small animals — we stock it all." },
+        { icon: "fa-leaf",           title: "Quality Range",     desc: "Carefully chosen products you won't always find in chains." }
+    ],
+
+    aboutTitle: "Audenshaw's Favourite Pet Shop",
+    aboutDesc: "Audenshaw Pet Supplies has been serving the local community with quality pet products and honest advice. We're neighbours first, retailers second.",
+    aboutImgs: [
+        "assets/pet_store_img/pet_store_1.jpg",
+        "assets/pet_store_img/bird_img.jpg",
+        "assets/pet_store_img/pet_bunny_2.jpg",
+        "assets/pet_store_img/pet_store_3.jpg"
+    ],
+
+    infoTitle: "Why the Community Loves Us",
+    infoPoints: [
+        "96 five-star Google reviews — one of Tameside's highest-rated pet shops.",
+        "Stocking food and accessories for dogs, cats, birds, fish, and small animals.",
+        "Friendly, knowledgeable staff who are pet owners themselves."
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+
+    about2Tag:        "About Us",
+    about2Title:      "Community Pet Shop. <span>Proper Service.</span>",
+    about2Desc:       "We're not a chain and we're not a warehouse — we're your local pet shop. Every product is chosen with care, every customer gets real advice, and every pet gets the best.",
+    about2Years:      "96",
+    about2YearsLabel: "Five-star reviews",
+    about2MainImg:    "assets/pet_store_img/pet_store_2.jpg",
+    about2AccentImg:  "assets/pet_store_img/pet_bunny.jpg",
+    about2Features: [
+        { icon: "fa-paw",            title: "All Pets Welcome",  desc: "Dogs, cats, birds, reptiles, fish — we cater for every kind of pet." },
+        { icon: "fa-map-marker-alt", title: "Local & Proud",     desc: "Based in Audenshaw and serving the whole of Tameside." },
+        { icon: "fa-heart",          title: "Genuine Advice",    desc: "Staff who own pets and know what they're talking about." }
+    ],
+    about2Stats: [
+        { value: "96+",  label: "5-Star reviews"    },
+        { value: "5.0★", label: "Google rating"     },
+        { value: "All",  label: "Pets catered for"  }
+    ],
+
+    reviews: [
+        { name: "Claire M.", text: "Best local pet shop around. Always have what I need and the staff actually know their stuff." },
+        { name: "Tony H.",   text: "Brilliant little shop — proper local service, good prices, and they clearly love animals." },
+        { name: "Bev S.",    text: "Five stars every time. Would never go to a chain when I have Audenshaw Pet Supplies nearby." }
+    ],
+
+    footerDesc: "Audenshaw's favourite independent pet shop. Serving Tameside with quality pet supplies and honest advice.",
+    footerBizName1: "AUDENSHAW",
+    footerBizName2: "PET SUPPLIES",
+    footerLinks: [
+        { label: "Home",      href: "#hero-section"      },
+        { label: "Services",  href: "#badges-container"  },
+        { label: "Our Story", href: "#about-main-card"   },
+        { label: "Reviews",   href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "Get pet tips and local deals from Audenshaw Pet Supplies!"
+},
+
+// ------------------------------------------------------------
+
+"toms_cattery": {
+    theme: "pet",
+    name1: "TOM'S",
+    name2: "CATTERY",
+    color: "#4a148c",
+    bgColor: "#F3E5F5",
+    accentColor: "#E1BEE7",
+    textColor: "#2a0054",
+
+    heroTitle: "A Home Away From Home<br><span>For Your Cat.</span>",
+    heroDesc: "Tom's Cattery — where cats are family. 5-star rated with 77 reviews from grateful cat owners across Bolton and Greater Manchester. Your cat deserves the best.",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/Cat_treat_img.jpg",
+    ctaText: "Book a Stay",
+    phone: "+44 1204 883974",
+    email: "hello@tomscattery.co.uk",
+    locationName: "Bolton, Greater Manchester",
+
+    badges: [
+        { icon: "fa-home",   title: "Home-Like Care",    desc: "Your cat stays in a warm, comfortable, stress-free environment." },
+        { icon: "fa-star",   title: "77 Reviews",        desc: "77 perfect five-star reviews from Bolton's cat owners." },
+        { icon: "fa-clock",  title: "Daily Updates",     desc: "We keep you updated so you can relax while your cat relaxes too." },
+        { icon: "fa-heart",  title: "Cat-Obsessed",      desc: "Run by genuine cat lovers who treat every guest like their own." }
+    ],
+
+    aboutTitle: "Bolton's Most Loved Cattery",
+    aboutDesc: "Tom's Cattery was built on one simple idea — cats deserve proper care when you're away, not just a cage. Every cat that stays with us gets warmth, attention, and love.",
+    aboutImgs: [
+        "assets/pet_store_img/pet_store_1.jpg",
+        "assets/pet_store_img/bird_img.jpg",
+        "assets/pet_store_img/pet_bunny_2.jpg",
+        "assets/pet_store_img/pet_store_3.jpg"
+    ],
+
+    infoTitle: "Why Cat Owners Trust Tom's",
+    infoPoints: [
+        "77 five-star reviews — Bolton's highest-rated cattery.",
+        "Individual, comfortable spaces tailored to each cat's personality.",
+        "Daily updates and photos so you never have to worry while away."
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+
+    about2Tag:        "About Us",
+    about2Title:      "Your Cat's Home <span>While You're Away.</span>",
+    about2Desc:       "We know how hard it is to leave your cat. That's why Tom's Cattery goes above and beyond — personal attention, cosy spaces, and daily updates. Your cat will be so comfortable, they might not want to leave.",
+    about2Years:      "77",
+    about2YearsLabel: "Five-star reviews",
+    about2MainImg:    "assets/pet_store_img/pet_store_2.jpg",
+    about2AccentImg:  "assets/pet_store_img/pet_bunny.jpg",
+    about2Features: [
+        { icon: "fa-home",  title: "Cosy & Comfortable", desc: "Individual spaces designed to feel safe and homely for every cat." },
+        { icon: "fa-camera","title": "Daily Photos",     desc: "We send updates and photos so you can see your cat is happy." },
+        { icon: "fa-heart", title: "Genuine Care",       desc: "Every cat receives personal attention and affection throughout their stay." }
+    ],
+    about2Stats: [
+        { value: "77+",   label: "5-Star reviews" },
+        { value: "5.0★",  label: "Google rating"  },
+        { value: "100%",  label: "Happy cats"     }
+    ],
+
+    reviews: [
+        { name: "Sarah J.",  text: "My cat has stayed at Tom's three times now — she comes back happy and relaxed every time. Couldn't ask for more." },
+        { name: "Mark L.",   text: "The daily photos put my mind at ease completely. Best cattery in Bolton without a doubt." },
+        { name: "Carol B.",  text: "Five stars isn't enough. Tom truly loves every cat that comes to stay. My cat is always in great hands." }
+    ],
+
+    footerDesc: "Bolton's most trusted cattery. 77 five-star reviews — because your cat deserves a proper home while you're away.",
+    footerBizName1: "TOM'S",
+    footerBizName2: "CATTERY",
+    footerLinks: [
+        { label: "Home",      href: "#hero-section"      },
+        { label: "Services",  href: "#badges-container"  },
+        { label: "Our Story", href: "#about-main-card"   },
+        { label: "Reviews",   href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "Get cat care tips and booking updates from Tom's Cattery!"
+},
+
+// ------------------------------------------------------------
+
+"mutts_munchies": {
+    theme: "pet",
+    name1: "THE MUTTS",
+    name2: "MUNCHIES",
+    color: "#e65100",
+    bgColor: "#FFF3E0",
+    accentColor: "#FFE0B2",
+    textColor: "#bf360c",
+
+    heroTitle: "Raw & Natural Dog Food<br><span>Done Right.</span>",
+    heroDesc: "The Mutts Munchies — Manchester's raw feeding specialists. 76 five-star reviews from dog owners who made the switch and never looked back.",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/Cat_treat_img.jpg",
+    ctaText: "Shop Raw Food",
+    phone: "+44 7734 565216",
+    email: "hello@themuttsmunchies.co.uk",
+    locationName: "Manchester",
+
+    badges: [
+        { icon: "fa-drumstick-bite", title: "Raw Specialists",  desc: "Everything your dog needs for a healthy raw diet, all in one place." },
+        { icon: "fa-leaf",           title: "Natural Only",     desc: "No fillers, no additives — just proper, natural nutrition." },
+        { icon: "fa-star",           title: "76 Reviews",       desc: "76 perfect five-star reviews from converted raw feeders." },
+        { icon: "fa-dog",            title: "Dog-Obsessed",     desc: "Run by dog owners who believe food is the foundation of health." }
+    ],
+
+    aboutTitle: "Manchester's Raw Feeding Experts",
+    aboutDesc: "The Mutts Munchies started because we couldn't find a local raw food supplier we trusted. So we built one. Now hundreds of Manchester dogs eat better because of it.",
+    aboutImgs: [
+        "assets/pet_store_img/pet_store_1.jpg",
+        "assets/pet_store_img/bird_img.jpg",
+        "assets/pet_store_img/pet_bunny_2.jpg",
+        "assets/pet_store_img/pet_store_3.jpg"
+    ],
+
+    infoTitle: "Why Raw Feeders Choose Us",
+    infoPoints: [
+        "76 five-star reviews from dog owners who've seen the difference raw feeding makes.",
+        "Specialist knowledge — we guide you through the switch step by step.",
+        "Quality sourced ingredients with full transparency on every product."
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+
+    about2Tag:        "About Us",
+    about2Title:      "Real Food. <span>Real Results.</span>",
+    about2Desc:       "We believe dogs thrive on real, natural food — and the results speak for themselves. Better coats, more energy, healthier digestion. The Mutts Munchies makes raw feeding simple, affordable, and accessible for every Manchester dog owner.",
+    about2Years:      "76",
+    about2YearsLabel: "Five-star reviews",
+    about2MainImg:    "assets/pet_store_img/pet_store_2.jpg",
+    about2AccentImg:  "assets/pet_store_img/pet_bunny.jpg",
+    about2Features: [
+        { icon: "fa-drumstick-bite", title: "Raw Feed Range",   desc: "Complete raw meals, bones, treats, and supplements — all in one place." },
+        { icon: "fa-leaf",           title: "Natural & Clean",  desc: "Every product free from fillers, artificial additives, and nasties." },
+        { icon: "fa-comments",       title: "Expert Guidance",  desc: "Not sure where to start? We'll walk you through the switch." }
+    ],
+    about2Stats: [
+        { value: "76+",  label: "5-Star reviews"       },
+        { value: "5.0★", label: "Google rating"        },
+        { value: "100%", label: "Natural ingredients"  }
+    ],
+
+    reviews: [
+        { name: "Jess R.",  text: "Switched my dog to raw 6 months ago with help from The Mutts Munchies — the difference is unbelievable." },
+        { name: "Pete M.",  text: "Best raw food supplier in Manchester. Great quality, great prices, and brilliant advice." },
+        { name: "Amy T.",   text: "My dog's coat has completely transformed since switching. Can't recommend The Mutts Munchies enough." }
+    ],
+
+    footerDesc: "Manchester's raw feeding specialists. Natural, quality dog food and expert advice — 76 five-star reviews and counting.",
+    footerBizName1: "THE MUTTS",
+    footerBizName2: "MUNCHIES",
+    footerLinks: [
+        { label: "Home",      href: "#hero-section"      },
+        { label: "Benefits",  href: "#badges-container"  },
+        { label: "Our Story", href: "#about-main-card"   },
+        { label: "Reviews",   href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "Raw feeding tips and exclusive deals straight to your inbox!"
+},
+
+// ------------------------------------------------------------
+
+"lucys_groom_room": {
+    theme: "pet",
+    name1: "LUCY'S",
+    name2: "GROOM ROOM",
+    color: "#c2185b",
+    bgColor: "#FCE4EC",
+    accentColor: "#F8BBD0",
+    textColor: "#880e4f",
+
+    heroTitle: "Professional Dog Grooming<br><span>With a Personal Touch.</span>",
+    heroDesc: "Lucy's Groom Room — where every dog leaves looking and feeling their absolute best. 57 five-star reviews from Manchester's happiest dog owners.",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/Cat_treat_img.jpg",
+    ctaText: "Book a Groom",
+    phone: "Ask on booking",
+    email: "hello@lucysgroomroom.co.uk",
+    locationName: "Manchester",
+
+    badges: [
+        { icon: "fa-cut",    title: "All Breeds",        desc: "Expert grooming for every breed — from tiny terriers to large dogs." },
+        { icon: "fa-star",   title: "57 Reviews",        desc: "57 perfect five-star reviews from delighted dog owners." },
+        { icon: "fa-heart",  title: "Stress-Free",       desc: "A calm, caring environment so every dog feels relaxed and safe." },
+        { icon: "fa-spa",    title: "Full Groom",        desc: "Bath, dry, cut, nails, ears — a complete groom every time." }
+    ],
+
+    aboutTitle: "Manchester's Favourite Dog Groomer",
+    aboutDesc: "Lucy's Groom Room was built on a love of dogs and a commitment to doing the job properly. Every dog is treated with patience, care, and a personal touch.",
+    aboutImgs: [
+        "assets/pet_store_img/pet_store_1.jpg",
+        "assets/pet_store_img/bird_img.jpg",
+        "assets/pet_store_img/pet_bunny_2.jpg",
+        "assets/pet_store_img/pet_store_3.jpg"
+    ],
+
+    infoTitle: "Why Dog Owners Love Lucy's",
+    infoPoints: [
+        "57 five-star reviews — one of Manchester's highest-rated dog groomers.",
+        "Calm, stress-free environment suited to anxious and nervous dogs.",
+        "Full groom service including bath, dry, cut, nail trim, and ear clean."
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+
+    about2Tag:        "About Us",
+    about2Title:      "Every Dog Leaves <span>Looking Gorgeous.</span>",
+    about2Desc:       "Lucy started the Groom Room because she believed dogs deserved grooming done with patience and love — not rushed through like a factory. Every appointment gets full attention, and every dog leaves wagging their tail.",
+    about2Years:      "57",
+    about2YearsLabel: "Five-star reviews",
+    about2MainImg:    "assets/pet_store_img/pet_store_2.jpg",
+    about2AccentImg:  "assets/pet_store_img/pet_bunny.jpg",
+    about2Features: [
+        { icon: "fa-cut",  title: "Expert Grooming",    desc: "Professional cuts tailored to your dog's breed and coat type." },
+        { icon: "fa-heart","title": "Calm & Caring",    desc: "Patient handling — especially great for nervous or anxious dogs." },
+        { icon: "fa-spa",  title: "Full Service",       desc: "Complete groom from bath to nails — your dog leaves transformed." }
+    ],
+    about2Stats: [
+        { value: "57+",  label: "5-Star reviews"  },
+        { value: "5.0★", label: "Google rating"   },
+        { value: "All",  label: "Breeds welcome"  }
+    ],
+ 
+    reviews: [
+        { name: "Natalie B.", text: "Lucy is absolutely amazing with my anxious dog — he came out relaxed and looking incredible." },
+        { name: "Dan F.",     text: "Best dog groomer in Manchester. Professional, caring, and the results speak for themselves." },
+        { name: "Karen W.",   text: "My dog actually gets excited to go to Lucy's now. That tells you everything you need to know." }
+    ],
+ 
+    footerDesc: "Manchester's most loved dog grooming salon. 57 five-star reviews — because every dog deserves to look and feel their best.",
+    footerBizName1: "LUCY'S",
+    footerBizName2: "GROOM ROOM",
+    footerLinks: [
+        { label: "Home",      href: "#hero-section"      },
+        { label: "Services",  href: "#badges-container"  },
+        { label: "Our Story", href: "#about-main-card"   },
+        { label: "Reviews",   href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "Grooming tips and booking updates from Lucy's Groom Room!"
+}
 };
 
 const ACTIVE_BIZ = "bark_and_bite";
