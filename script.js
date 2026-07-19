@@ -201,11 +201,66 @@ document.addEventListener('DOMContentLoaded', () => {
   const bizId = params.get('biz') || Object.keys(businesses)[0];
   const biz = businesses[bizId];
   if (biz && biz.about2Stats) {
-    document.getElementById('stats-bar').innerHTML = biz.about2Stats.map(s => `
+    document.getElementById('hero-stats').innerHTML = biz.about2Stats.map(s => `
       <div class="stat-block">
         <span class="stat-val">${s.value}</span>
         <span class="stat-label">${s.label}</span>
       </div>
     `).join('');
+  }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  const params = new URLSearchParams(window.location.search);
+  const bizId = params.get('biz') || Object.keys(businesses)[0];
+  const biz = businesses[bizId];
+
+  const defaultFaqs = [
+    { q: "Do you accept walk-ins?", a: "We recommend booking ahead, but we're happy to accommodate walk-ins when possible." },
+    { q: "What payment methods do you accept?", a: "We accept card, cash, and most contactless payment methods." },
+    { q: "Do you offer delivery?", a: "Yes, local delivery is available — check your area at checkout or call us to confirm." },
+    { q: "Can I return or exchange an item?", a: "Yes, unopened items can be returned within 14 days with a receipt." }
+  ];
+
+  const faqs = (biz && biz.faqs) ? biz.faqs : defaultFaqs;
+
+  const faqList = document.getElementById('faq-list');
+  if (faqList) {
+    faqList.innerHTML = faqs.map((f, i) => `
+      <div class="faq-item" data-index="${i}">
+        <div class="faq-question">
+          <span>${f.q}</span>
+          <i class="fas fa-plus"></i>
+        </div>
+        <div class="faq-answer"><p>${f.a}</p></div>
+      </div>
+    `).join('');
+
+    document.querySelectorAll('.faq-item').forEach(item => {
+      item.querySelector('.faq-question').addEventListener('click', () => {
+        item.classList.toggle('open');
+      });
+    });
+  }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  const params = new URLSearchParams(window.location.search);
+  const bizId = params.get('biz') || Object.keys(businesses)[0];
+  const biz = businesses[bizId];
+  const mapFrame = document.getElementById('biz-map');
+  if (biz && biz.locationName && mapFrame) {
+    const query = encodeURIComponent(biz.locationName);
+    mapFrame.src = `https://maps.google.com/maps?q=${query}&output=embed`;
+  }
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  const params = new URLSearchParams(window.location.search);
+  const bizId = params.get('biz') || Object.keys(businesses)[0];
+  const biz = businesses[bizId];
+  const navCta = document.getElementById('nav-cta');
+  if (navCta) {
+    navCta.textContent = (biz && biz.navCtaText) ? biz.navCtaText : "Book Appointment";
   }
 });

@@ -24,6 +24,7 @@
     <li><a href="#contact-us">Contact</a></li>
     
   </ul>
+  <a href="#contact-us" class="btn-primary btn-nav-cta" id="nav-cta">Book Appointment</a>
   <div class="menu-toggle" id="mobile-toggle">
     <div class="bar"></div>
     <div class="bar"></div>
@@ -40,6 +41,7 @@
         Your furry friends deserve a world filled with high-quality nutrition, cozy comfort, and endless tail-wagging joy. From organic treats to the softest beds, we provide everything your best friend needs to thrive and feel loved.
       </p>
       <button class="btn-primary" id="hero-cta">Shop Now</button>
+      <div class="hero-stats" id="hero-stats"></div>
     </div>
 
     <div class="hero-visual">
@@ -60,9 +62,9 @@
 </section>
 
 
-<section class="stats-bar" id="stats-bar"></section>
 
-<section class="badges-section reveal-stagger" id="badges-container">
+
+<section class="badges-section reveal-stagger pet-pattern-bg" id="badges-container">
   <div class="badge-item">
     <div class="badge-icon"><i class="fas fa-paw"></i></div>
     <h3 id="badge-1-title">Premium Quality</h3>
@@ -177,6 +179,16 @@
 </section>
 
 
+
+
+
+<section class="faq-section pet-pattern-bg" id="faq-section">
+  <div class="faq-header">
+    <h2>Frequently Asked Questions</h2>
+  </div>
+  <div class="faq-list" id="faq-list"></div>
+</section>
+
 <section class="contact-section" id="contact-us">
   <div class="contact-card reveal">
     <div class="contact-info">
@@ -185,6 +197,9 @@
       <div class="c-detail"><i class="fas fa-phone"></i> <span class="phone-text"></span></div>
       <div class="c-detail"><i class="fas fa-envelope"></i> <span id="footer-email"></span></div>
       <div class="c-detail"><i class="fas fa-map-marker-alt"></i> <span id="biz-location"></span></div>
+      <div class="contact-map">
+        <iframe id="biz-map" src="" width="100%" height="200" style="border:0; border-radius:16px; margin-top:16px;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
     </div>
     <form class="contact-form" onsubmit="handleSubmit(event)">
       <input type="text" placeholder="Your Name" required>
