@@ -1113,3 +1113,11 @@ html {
 .nav-links a:hover::after {
   width: 100%;
 }
+
+/* Footer logo contrast fix */
+.footer .logo {
+  color: var(--white);
+}
+.footer .logo span#footer-biz-name-2 {
+  color: var(--primary-warm);
+}
