@@ -1043,6 +1043,7 @@ const businesses = {
 
 "lucys_groom_room": {
     theme: "pet",
+    type: "grooming",
     name1: "LUCY'S",
     name2: "GROOM ROOM",
     color: "#c2185b",
@@ -1117,5 +1118,220 @@ const businesses = {
         { label: "Reviews",   href: "#reviews-container" }
     ],
     footerNewsletterDesc: "Grooming tips and booking updates from Lucy's Groom Room!"
+}
+,
+"house_of_paws": {
+    theme: "pet",
+    type: "grooming",
+    name1: "HOUSE OF",
+    name2: "PAWS",
+    color: "#5C6E5A",
+    bgColor: "#F4F2EC",
+    accentColor: "#DDE3D5",
+    textColor: "#2E332B",
+    heroTitle: "No Hit. No Yell.<br><span>Just Gentle Grooming.</span>",
+    heroDesc: "House of Paws Doggie Day Spa has been grooming Frisco's dogs since 1998 — with a strict no-hit, no-yell policy and a focus on your dog's wellbeing, not just a fast finish.",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Contact Us",
+    phone: "469-362-8299",
+    email: "houseofpawsdoggiedayspa@gmail.com",
+    locationName: "Frisco, TX",
+    badges: [
+      { icon: "fa-heart",       title: "No Hit, No Yell",   desc: "A stress-free, rehabilitative approach to every groom." },
+      { icon: "fa-users",       title: "Family Owned",       desc: "Run by Melinda, her niece Jordan, and sister Martha." },
+      { icon: "fa-clock",       title: "Since 1998",         desc: "Over 25 years of trusted, experienced grooming." },
+      { icon: "fa-leaf",        title: "Gentle Products",    desc: "Natural, wholesome pet care brands used throughout." }
+    ],
+    aboutTitle: "Grooming With Patience Since 1998",
+    aboutDesc: "Founded by Melinda Moffett DeLaRosa — a former veterinary technician turned groomer — House of Paws is family owned and operated, built on the belief that every dog deserves a peaceful, unhurried grooming experience.",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Frisco Trusts House of Paws",
+    infoPoints: [
+      "Strict no-hit, no-yell policy — your dog's comfort always comes first.",
+      "Over 25 years of grooming experience, including veterinary technician training.",
+      "Family owned and operated, with a strong personal relationship with every pet."
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag:        "About Us",
+    about2Title:      "A Peaceful Groom, <span>Every Time</span>",
+    about2Desc:       "Melinda has always been passionate about grooming for the pet, not just the appearance. Her focus is on the wellbeing of the animal — if more time is needed to keep a dog calm and comfortable, that time is always taken.",
+    about2Years:      "25+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg:    "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg:  "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",    title: "No Hit, No Yell Policy",  desc: "A calm, rehabilitative approach that puts your dog's comfort first." },
+      { icon: "fa-user-md",  title: "Vet-Trained Expertise",   desc: "Melinda's background as a veterinary technician informs every groom." },
+      { icon: "fa-home",     title: "Family Run",              desc: "A tight-knit team who treat every dog like their own." }
+    ],
+    about2Stats: [
+      { value: "25+",  label: "Years experience" },
+      { value: "100%", label: "Family owned"      },
+      { value: "0",    label: "Hit or yell policy" }
+    ],
+    reviews: [
+      { name: "Denise F.", text: "Melinda is so gentle with my anxious rescue. Nobody else has ever managed to groom him this calmly." },
+      { name: "Owen T.",   text: "You can tell this is a family business that genuinely cares. My dog actually relaxes here." },
+      { name: "Carla M.",  text: "25 years of experience really shows. Patient, kind, and thorough every single time." }
+    ],
+    footerDesc: "Family-owned, gentle dog grooming in Frisco, TX since 1998.",
+    footerBizName1: "HOUSE OF",
+    footerBizName2: "PAWS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "Grooming tips and appointment updates from House of Paws!"
+},
+"classy_k9_cuts": {
+    theme: "pet",
+    type: "grooming",
+    name1: "CLASSY",
+    name2: "K9 CUTS",
+    color: "#1C3D5A",
+    bgColor: "#EAF3FA",
+    accentColor: "#CFE3F2",
+    textColor: "#12283B",
+    heroTitle: "Full-Service Grooming,<br><span>Done Right in Frisco.</span>",
+    heroDesc: "Grooming, bathing, brushing, nails, teeth, and more — Classy K9 Cuts offers same-day appointments and a full-service pet salon experience for your dog.",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "469-362-5303",
+    email: "info@classyk9cuts.com",
+    locationName: "2995 Preston Rd #1570, Frisco, TX 75034",
+    badges: [
+      { icon: "fa-calendar-check", title: "Same-Day Appointments", desc: "Usually available — call ahead to confirm." },
+      { icon: "fa-gift",           title: "Referral Rewards",      desc: "Get 15% off when you refer a new customer." },
+      { icon: "fa-cut",            title: "Full-Service Salon",    desc: "Grooming, bathing, brushing, nails, and teeth." },
+      { icon: "fa-clock",          title: "Fast Turnaround",       desc: "Dogs finished within 3-5 hours, same day." }
+    ],
+    aboutTitle: "Frisco's Full-Service Pet Salon",
+    aboutDesc: "From baths to full haircuts, Classy K9 Cuts handles every part of your dog's grooming routine — with same-day availability and a team that treats every dog like a regular.",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_2.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_5.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Frisco Chooses Classy K9 Cuts",
+    infoPoints: [
+      "Same-day appointments usually available, even on weekends.",
+      "Full-service menu — grooming, bathing, brushing, nails, and teeth in one visit.",
+      "A loyal referral program rewarding customers who spread the word."
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag:        "About Us",
+    about2Title:      "Full-Service Care, <span>Every Visit</span>",
+    about2Desc:       "Whether it's a quick bath or a full haircut and nail trim, our team handles it all in one appointment — with same-day availability that fits your schedule, not the other way around.",
+    about2Years:      "Same-Day",
+    about2YearsLabel: "Appointments available",
+    about2MainImg:    "assets/pet_store_img/pet_store_3.jpg",
+    about2AccentImg:  "assets/pet_store_img/pet_store_1.jpg",
+    about2Features: [
+      { icon: "fa-cut",     title: "Full-Service Menu",   desc: "Grooming, bathing, brushing, nails, and teeth — all in one visit." },
+      { icon: "fa-clock",   title: "Fast Turnaround",     desc: "Most dogs finished within 3-5 hours." },
+      { icon: "fa-gift",    title: "Referral Rewards",    desc: "15% off for every new customer you refer." }
+    ],
+    about2Stats: [
+      { value: "Same-Day", label: "Appointments" },
+      { value: "15%",      label: "Referral discount" },
+      { value: "6",        label: "Days open a week" }
+    ],
+    reviews: [
+      { name: "Marissa K.", text: "Booked a same-day appointment and my dog looked amazing within a few hours. Great service." },
+      { name: "Dave R.",    text: "The referral program is a nice touch — got a discount and my friend loves them too now." },
+      { name: "Yolanda P.", text: "Full grooming menu in one place. Nails, teeth, bath — no need to go anywhere else." }
+    ],
+    footerDesc: "Full-service dog grooming in Frisco, TX — same-day appointments usually available.",
+    footerBizName1: "CLASSY",
+    footerBizName2: "K9 CUTS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "Grooming tips and appointment reminders from Classy K9 Cuts!"
+}
+,
+"stonebriar_grooming": {
+    theme: "pet",
+    type: "grooming",
+    name1: "STONEBRIAR",
+    name2: "GROOMING",
+    color: "#2E5C8A",
+    bgColor: "#EAF4FC",
+    accentColor: "#CFE7FA",
+    textColor: "#1A3A5C",
+    heroTitle: "Bath & Groom Packages,<br><span>Done With Care.</span>",
+    heroDesc: "Stonebriar Grooming offers full BATH and GROOM packages — including blow dry, brush out, ear cleaning, and nail filing — for dogs across Frisco.",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book an Appointment",
+    phone: "",
+    email: "",
+    locationName: "Frisco, TX",
+    badges: [
+      { icon: "fa-bath",       title: "Bath Package",    desc: "Bath, blow dry, brush out, ear cleaning, and nail filing." },
+      { icon: "fa-cut",        title: "Groom Package",   desc: "Everything in Bath, plus a full haircut." },
+      { icon: "fa-paw",        title: "Every Breed",     desc: "Experienced with coats and cuts of all kinds." },
+      { icon: "fa-calendar-check", title: "Easy Booking", desc: "Simple online client login for scheduling visits." }
+    ],
+    aboutTitle: "Straightforward, Reliable Dog Grooming",
+    aboutDesc: "Stonebriar Grooming keeps things simple: two clear packages, no confusing add-ons, and a team that knows exactly how to keep your dog comfortable from bath to blow-dry.",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_2.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_5.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Dog Owners Choose Stonebriar",
+    infoPoints: [
+      "Two clear packages — Bath or Groom — with no confusing upsells.",
+      "Every groom includes ear cleaning and nail filing as standard.",
+      "Simple, no-fuss online scheduling for busy pet owners."
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag:        "About Us",
+    about2Title:      "Simple Packages, <span>Consistent Care</span>",
+    about2Desc:       "No guesswork, no hidden extras — just two dependable packages built around what your dog actually needs, delivered the same reliable way every time.",
+    about2Years:      "2",
+    about2YearsLabel: "Simple packages",
+    about2MainImg:    "assets/pet_store_img/pet_store_3.jpg",
+    about2AccentImg:  "assets/pet_store_img/pet_store_1.jpg",
+    about2Features: [
+      { icon: "fa-bath",   title: "Bath Package",   desc: "Bath, blow dry, brush out, ear cleaning, nail filing." },
+      { icon: "fa-cut",    title: "Groom Package",  desc: "Full haircut included alongside the full bath service." },
+      { icon: "fa-paw",    title: "All Breeds Welcome", desc: "Comfortable with every coat type and temperament." }
+    ],
+    about2Stats: [
+      { value: "2",   label: "Care packages" },
+      { value: "100%", label: "Standard nail & ear care" },
+      { value: "Easy", label: "Online booking" }
+    ],
+    reviews: [
+      { name: "Renee K.", text: "Simple, no-nonsense grooming. I always know exactly what I'm getting and my dog comes back looking great." },
+      { name: "Marcus D.", text: "Booking online is so easy, and they're consistent every single time." },
+      { name: "Talia W.",  text: "The Groom package is worth every penny. My dog's cut always looks clean and even." }
+    ],
+    footerDesc: "Simple, reliable dog grooming packages in Frisco, TX.",
+    footerBizName1: "STONEBRIAR",
+    footerBizName2: "GROOMING",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "Grooming updates and booking reminders from Stonebriar!"
 }
 };
