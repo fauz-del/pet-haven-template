@@ -1334,4 +1334,2218 @@ const businesses = {
     ],
     footerNewsletterDesc: "Grooming updates and booking reminders from Stonebriar!"
 }
+,
+"stacies_groomers": {
+    theme: "pet",
+    type: "grooming",
+    name1: "STACIE'S", name2: "GROOMERS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes STACIE'S GROOMERS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About STACIE'S GROOMERS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose STACIE'S GROOMERS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "STACIE'S",
+    footerBizName2: "GROOMERS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"k9_style_master": {
+    theme: "pet",
+    type: "grooming",
+    name1: "K9 STYLE", name2: "MASTER",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes K9 STYLE MASTER different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About K9 STYLE MASTER",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose K9 STYLE MASTER",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "K9 STYLE",
+    footerBizName2: "MASTER",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"hounds_of_hull": {
+    theme: "pet",
+    type: "grooming",
+    name1: "HOUNDS OF", name2: "HULL",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes HOUNDS OF HULL different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About HOUNDS OF HULL",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose HOUNDS OF HULL",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "HOUNDS OF",
+    footerBizName2: "HULL",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"bark_and_bubbles": {
+    theme: "pet",
+    type: "grooming",
+    name1: "BARK &", name2: "BUBBLES",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes BARK & BUBBLES different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About BARK & BUBBLES",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose BARK & BUBBLES",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "BARK &",
+    footerBizName2: "BUBBLES",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"blingbabes_groom_room": {
+    theme: "pet",
+    type: "grooming",
+    name1: "BLINGBABES", name2: "GROOM ROOM",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes BLINGBABES GROOM ROOM different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About BLINGBABES GROOM ROOM",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose BLINGBABES GROOM ROOM",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "BLINGBABES",
+    footerBizName2: "GROOM ROOM",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"bath_and_bark": {
+    theme: "pet",
+    type: "grooming",
+    name1: "BATH &", name2: "BARK",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes BATH & BARK different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About BATH & BARK",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose BATH & BARK",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "BATH &",
+    footerBizName2: "BARK",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"moores_paws": {
+    theme: "pet",
+    type: "grooming",
+    name1: "MOORE'S", name2: "PAWS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes MOORE'S PAWS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About MOORE'S PAWS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose MOORE'S PAWS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "MOORE'S",
+    footerBizName2: "PAWS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"the_dog_spa_pro": {
+    theme: "pet",
+    type: "grooming",
+    name1: "THE DOG", name2: "SPA",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes THE DOG SPA different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About THE DOG SPA",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose THE DOG SPA",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "THE DOG",
+    footerBizName2: "SPA",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"laurs_paws": {
+    theme: "pet",
+    type: "grooming",
+    name1: "LAUR'S", name2: "PAWS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes LAUR'S PAWS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About LAUR'S PAWS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose LAUR'S PAWS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "LAUR'S",
+    footerBizName2: "PAWS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"blackpool_dog_groomer": {
+    theme: "pet",
+    type: "grooming",
+    name1: "BLACKPOOL", name2: "DOG GROOMER",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes BLACKPOOL DOG GROOMER different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About BLACKPOOL DOG GROOMER",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose BLACKPOOL DOG GROOMER",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "BLACKPOOL",
+    footerBizName2: "DOG GROOMER",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"jurassic_bark": {
+    theme: "pet",
+    type: "grooming",
+    name1: "JURASSIC", name2: "BARK",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes JURASSIC BARK different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About JURASSIC BARK",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose JURASSIC BARK",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "JURASSIC",
+    footerBizName2: "BARK",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+}
+,
+"hollys_hounds": {
+    theme: "pet",
+    type: "grooming",
+    name1: "HOLLY'S", name2: "HOUNDS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes HOLLY'S HOUNDS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About HOLLY'S HOUNDS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose HOLLY'S HOUNDS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "HOLLY'S",
+    footerBizName2: "HOUNDS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"blooming_daisy": {
+    theme: "pet",
+    type: "grooming",
+    name1: "BLOOMING", name2: "DAISY",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes BLOOMING DAISY different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About BLOOMING DAISY",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose BLOOMING DAISY",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "BLOOMING",
+    footerBizName2: "DAISY",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"treasured_paws": {
+    theme: "pet",
+    type: "grooming",
+    name1: "TREASURED", name2: "PAWS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes TREASURED PAWS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About TREASURED PAWS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose TREASURED PAWS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "TREASURED",
+    footerBizName2: "PAWS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"groomdog_guildford": {
+    theme: "pet",
+    type: "grooming",
+    name1: "GROOMDOG", name2: "GUILDFORD",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes GROOMDOG GUILDFORD different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About GROOMDOG GUILDFORD",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose GROOMDOG GUILDFORD",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "GROOMDOG",
+    footerBizName2: "GUILDFORD",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"posh_paws_newcastle": {
+    theme: "pet",
+    type: "grooming",
+    name1: "POSH PAWS", name2: "NEWCASTLE",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes POSH PAWS NEWCASTLE different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About POSH PAWS NEWCASTLE",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose POSH PAWS NEWCASTLE",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "POSH PAWS",
+    footerBizName2: "NEWCASTLE",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"newcastle_under_lyme": {
+    theme: "pet",
+    type: "grooming",
+    name1: "NEWCASTLE", name2: "UNDER LYME",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes NEWCASTLE UNDER LYME different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About NEWCASTLE UNDER LYME",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose NEWCASTLE UNDER LYME",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "NEWCASTLE",
+    footerBizName2: "UNDER LYME",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"cheltenham_dog_spa": {
+    theme: "pet",
+    type: "grooming",
+    name1: "CHELTENHAM", name2: "DOG SPA",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes CHELTENHAM DOG SPA different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About CHELTENHAM DOG SPA",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose CHELTENHAM DOG SPA",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "CHELTENHAM",
+    footerBizName2: "DOG SPA",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"grimsby_groom_room": {
+    theme: "pet",
+    type: "grooming",
+    name1: "GRIMSBY", name2: "GROOM ROOM",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes GRIMSBY GROOM ROOM different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About GRIMSBY GROOM ROOM",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose GRIMSBY GROOM ROOM",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "GRIMSBY",
+    footerBizName2: "GROOM ROOM",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"pawfect_style": {
+    theme: "pet",
+    type: "grooming",
+    name1: "PAWFECT", name2: "STYLE",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes PAWFECT STYLE different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About PAWFECT STYLE",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose PAWFECT STYLE",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "PAWFECT",
+    footerBizName2: "STYLE",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"lulus_pooch_parlour": {
+    theme: "pet",
+    type: "grooming",
+    name1: "LULU'S", name2: "POOCH PARLOUR",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes LULU'S POOCH PARLOUR different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About LULU'S POOCH PARLOUR",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose LULU'S POOCH PARLOUR",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "LULU'S",
+    footerBizName2: "POOCH PARLOUR",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"barks_and_bubbles": {
+    theme: "pet",
+    type: "grooming",
+    name1: "BARKS &", name2: "BUBBLES",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes BARKS & BUBBLES different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About BARKS & BUBBLES",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose BARKS & BUBBLES",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "BARKS &",
+    footerBizName2: "BUBBLES",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+}
+,
+"dog_grooming_hall": {
+    theme: "pet",
+    type: "grooming",
+    name1: "THE DOG", name2: "GROOMING HALL",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes THE DOG GROOMING HALL different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About THE DOG GROOMING HALL",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose THE DOG GROOMING HALL",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "THE DOG",
+    footerBizName2: "GROOMING HALL",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"griffs_professional": {
+    theme: "pet",
+    type: "grooming",
+    name1: "GRIFF'S", name2: "GROOMERS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes GRIFF'S GROOMERS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About GRIFF'S GROOMERS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose GRIFF'S GROOMERS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "GRIFF'S",
+    footerBizName2: "GROOMERS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"the_dog_groomer": {
+    theme: "pet",
+    type: "grooming",
+    name1: "THE DOG", name2: "GROOMER",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes THE DOG GROOMER different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About THE DOG GROOMER",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose THE DOG GROOMER",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "THE DOG",
+    footerBizName2: "GROOMER",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"nss_dog_grooming": {
+    theme: "pet",
+    type: "grooming",
+    name1: "NSS DOG", name2: "GROOMING",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes NSS DOG GROOMING different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About NSS DOG GROOMING",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose NSS DOG GROOMING",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "NSS DOG",
+    footerBizName2: "GROOMING",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"ruff_and_woof": {
+    theme: "pet",
+    type: "grooming",
+    name1: "RUFF &", name2: "WOOF",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes RUFF & WOOF different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About RUFF & WOOF",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose RUFF & WOOF",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "RUFF &",
+    footerBizName2: "WOOF",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"purrs_and_paws": {
+    theme: "pet",
+    type: "grooming",
+    name1: "PURRS &", name2: "PAWS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes PURRS & PAWS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About PURRS & PAWS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose PURRS & PAWS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "PURRS &",
+    footerBizName2: "PAWS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"amys_pets_grooming": {
+    theme: "pet",
+    type: "grooming",
+    name1: "AMY'S", name2: "PETS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes AMY'S PETS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About AMY'S PETS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose AMY'S PETS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "AMY'S",
+    footerBizName2: "PETS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"barkdrive_grooming": {
+    theme: "pet",
+    type: "grooming",
+    name1: "BARKDRIVE", name2: "GROOMING & SPA",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes BARKDRIVE GROOMING & SPA different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About BARKDRIVE GROOMING & SPA",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose BARKDRIVE GROOMING & SPA",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "BARKDRIVE",
+    footerBizName2: "GROOMING & SPA",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"astas_woof_cuts": {
+    theme: "pet",
+    type: "grooming",
+    name1: "ASTA'S", name2: "WOOF CUTS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes ASTA'S WOOF CUTS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About ASTA'S WOOF CUTS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose ASTA'S WOOF CUTS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "ASTA'S",
+    footerBizName2: "WOOF CUTS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"the_grooming_suite": {
+    theme: "pet",
+    type: "grooming",
+    name1: "THE GROOMING", name2: "SUITE",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes THE GROOMING SUITE different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About THE GROOMING SUITE",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose THE GROOMING SUITE",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "THE GROOMING",
+    footerBizName2: "SUITE",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+},
+"posh_paws": {
+    theme: "pet",
+    type: "grooming",
+    name1: "POSH", name2: "PAWS",
+    color: "#5C6E5A", bgColor: "#F4F2EC", accentColor: "#DDE3D5", textColor: "#2E332B",
+    heroTitle: "Grooming Done<br><span>With Care.</span>",
+    heroDesc: "[SHORT DESCRIPTION — what makes POSH PAWS different? e.g. years in business, specialty breeds, gentle approach]",
+    heroImg: "assets/pet_store_img/transparent_pet_img.png",
+    thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+    ctaText: "Book Now",
+    phone: "[PHONE NUMBER]",
+    email: "[EMAIL ADDRESS]",
+    locationName: "[CITY / FULL ADDRESS]",
+    badges: [
+      { icon: "fa-cut",   title: "Full-Service Grooming", desc: "[Bath, cut, nails, ears — customize as needed]" },
+      { icon: "fa-heart", title: "Gentle Approach",       desc: "[Calm, patient handling for nervous dogs]" },
+      { icon: "fa-clock", title: "[X]+ Years Experience", desc: "[How long the business has been operating]" },
+      { icon: "fa-paw",   title: "All Breeds Welcome",    desc: "[Comfortable with any coat type or size]" }
+    ],
+    aboutTitle: "About POSH PAWS",
+    aboutDesc: "[2-3 sentences on the business's story, owner, or philosophy — pull from their real About page]",
+    aboutImgs: [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_store_3.jpg",
+      "assets/pet_store_img/pet_store_6.jpg"
+    ],
+    infoTitle: "Why Owners Choose POSH PAWS",
+    infoPoints: [
+      "[Trust point 1 — e.g. real reviews, certifications]",
+      "[Trust point 2 — e.g. years of experience]",
+      "[Trust point 3 — e.g. product quality, calm environment]"
+    ],
+    infoBg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Tag: "About Us",
+    about2Title: "[Tagline — e.g. Patient Care, Every Time]",
+    about2Desc: "[Longer story paragraph — the 'why' behind the business]",
+    about2Years: "[X]+",
+    about2YearsLabel: "Years grooming",
+    about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+    about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+    about2Features: [
+      { icon: "fa-heart",   title: "[Feature 1 title]", desc: "[Feature 1 description]" },
+      { icon: "fa-user-md", title: "[Feature 2 title]", desc: "[Feature 2 description]" },
+      { icon: "fa-home",    title: "[Feature 3 title]", desc: "[Feature 3 description]" }
+    ],
+    about2Stats: [
+      { value: "[X]+",  label: "[Stat label 1]" },
+      { value: "[X]",   label: "[Stat label 2]" },
+      { value: "[X]",   label: "[Stat label 3]" }
+    ],
+    reviews: [
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" },
+      { name: "[Reviewer Name]", text: "[Real or placeholder testimonial quote]" }
+    ],
+    footerDesc: "[One-line business summary for the footer]",
+    footerBizName1: "POSH",
+    footerBizName2: "PAWS",
+    footerLinks: [
+      { label: "Home",     href: "#hero-section" },
+      { label: "Benefits", href: "#badges-container" },
+      { label: "Our Story",href: "#about-main-card" },
+      { label: "Reviews",  href: "#reviews-container" }
+    ],
+    footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
+}
 };
