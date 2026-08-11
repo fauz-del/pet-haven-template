@@ -212,7 +212,6 @@ html {
 
 .btn-secondary:active { transform: scale(0.97); }
 
-/* ─── ANIMATIONS & RESPONSIVE ─── */
 @keyframes floatCloud {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-20px); }
@@ -299,8 +298,7 @@ html {
   transform: translateY(-4px) scale(1.01);
   box-shadow: 0 16px 36px rgba(0, 0, 0, 0.09);
 }
-
-/* span rules */
+ 
 .item-large  { grid-column: span 2; grid-row: span 2; }
 .item-medium { grid-column: span 2; }
 .item-small  { grid-column: span 1; }
@@ -373,11 +371,10 @@ html {
   margin: 0;
 }
 
-/* FADED INFO SECTION */
 .list-info-section {
   position: relative;
   padding: 100px 8%;
-  background-image: url('assets/pet_store_img/pet_store_7.jpg'); /* Default */
+  background-image: url('assets/pet_store_img/pet_store_7.jpg');
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -414,7 +411,6 @@ html {
   text-shadow: 0 2px 10px rgba(0,0,0,0.3);
 }
 
-/* ─── ABOUT US SPLIT SECTION ─── */
 .about2-section {
   padding: 100px 8%;
   background: var(--bg-warm);
@@ -427,7 +423,6 @@ html {
   align-items: center;
 }
 
-/* Image side */
 .about2-img-wrap { position: relative; }
 
 .about2-img-main {
@@ -1114,10 +1109,9 @@ html {
   width: 100%;
 }
 
-/* Footer logo contrast fix */
 .footer .logo {
-  color: var(--white);
+  color: var(--accent-light);
 }
 .footer .logo span#footer-biz-name-2 {
-  color: var(--primary-warm);
+  color: var(--white);
 }

@@ -3547,5 +3547,157 @@ const businesses = {
       { label: "Reviews",  href: "#reviews-container" }
     ],
     footerNewsletterDesc: "[Newsletter tagline — e.g. Grooming tips and booking updates!]"
-}
+  },
+  
+ "the_grooming_loft": {
+  theme: "pet",
+  type: "grooming",
+  name1: "THE",
+  name2: "GROOMING LOFT",
+  color: "#53665A",
+  bgColor: "#F7F5F0",
+  accentColor: "#D89A8C",
+  textColor: "#2D332F",
+  heroTitle: "From Scruffy<br><span>to Fluffy.</span>",
+  heroDesc: "Professional dog and cat grooming in the heart of Wakefield. Gina provides a calm, positive grooming experience with personalised care for pets of every size.",
+
+  heroImg: "assets/pet_store_img/transparent_pet_img.png",
+  thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+
+  ctaText: "Book Now",
+
+  phone: "07359 207890",
+  email: "",
+  locationName: "4 Zetland Street, Wakefield WF1 1QG",
+
+  badges: [
+    {
+      icon: "fa-scissors",
+      title: "Full-Service Grooming",
+      desc: "Bathing, brushing, styling, nail trimming and ear cleaning."
+    },
+    {
+      icon: "fa-heart",
+      title: "Calm & Caring",
+      desc: "A calm environment and positive experience for every pet."
+    },
+    {
+      icon: "fa-clock",
+      title: "7+ Years Experience",
+      desc: "Gina has dedicated over seven years to professional pet grooming."
+    },
+    {
+      icon: "fa-paw",
+      title: "All Pets Welcome",
+      desc: "No pet is too big or too small — dogs and cats are welcome."
+    }
+  ],
+
+  aboutTitle: "About The Grooming Loft",
+
+  aboutDesc: "I'm Gina, owner of The Grooming Loft. I discovered the pet grooming industry as a volunteer seven years ago and have been dedicated to it as a career ever since. After working for a small business and progressing to Salon Manager, I built the experience and skills needed to create a calm, positive grooming environment for pets.",
+
+  aboutImgs: [
+    "assets/pet_store_img/pet_store_1.jpg",
+    "assets/pet_store_img/pet_bunny_2.jpg",
+    "assets/pet_store_img/pet_store_3.jpg",
+    "assets/pet_store_img/pet_store_6.jpg"
+  ],
+
+  infoTitle: "Why Pet Owners Choose The Grooming Loft",
+
+  infoPoints: [
+    "Over seven years of dedicated pet grooming experience",
+    "Calm environment designed around pet comfort",
+    "Professional grooming for both dogs and cats",
+    "Quality products used with your pet's health and comfort in mind"
+  ],
+
+  infoBg: "assets/pet_store_img/pet_store_7.jpg",
+
+  about2Tag: "About Gina",
+
+  about2Title: "Calm Care,<br>Every Time.",
+
+  about2Desc: "Gina's approach is built around patience, animal care and creating a positive experience. From everyday grooming to specialist teeth cleaning, every appointment is handled with your pet's comfort and wellbeing in mind.",
+
+  about2Years: "7+",
+  about2YearsLabel: "Years grooming",
+
+  about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+  about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+
+  about2Features: [
+    {
+      icon: "fa-heart",
+      title: "Calm Environment",
+      desc: "A relaxed setting designed to make grooming a positive experience."
+    },
+    {
+      icon: "fa-paw",
+      title: "Personalised Care",
+      desc: "Every pet receives care suited to their individual needs."
+    },
+    {
+      icon: "fa-shield-heart",
+      title: "Pet Wellbeing",
+      desc: "Professional techniques and quality products focused on health and comfort."
+    }
+  ],
+
+  about2Stats: [
+    {
+      value: "7+",
+      label: "Years Experience"
+    },
+    {
+      value: "2",
+      label: "Pet Types"
+    },
+    {
+      value: "5.0",
+      label: "Booksy Rating"
+    }
+  ],
+
+  reviews: [
+    {
+      name: "Booksy Clients",
+      text: "The Grooming Loft is rated 5.0 by its Booksy customers."
+    },
+    {
+      name: "Local Pet Owners",
+      text: "Professional grooming with a calm and caring approach for pets of all sizes."
+    },
+    {
+      name: "Wakefield Clients",
+      text: "A dedicated local grooming salon offering professional care for dogs and cats."
+    }
+  ],
+
+  footerDesc: "Professional dog and cat grooming in Wakefield, with a calm and caring approach to every pet.",
+
+  footerBizName1: "THE",
+  footerBizName2: "GROOMING LOFT",
+
+  footerLinks: [
+    {
+      label: "Home",
+      href: "#hero-section"
+    },
+    {
+      label: "Benefits",
+      href: "#badges-container"
+    },
+    {
+      label: "Our Story",
+      href: "#about-main-card"
+    },
+    {
+      label: "Reviews",
+      href: "#reviews-container"
+    }
+  ],
+  footerNewsletterDesc: "Grooming care and updates for your fluffy friends!"
+ }
 };
