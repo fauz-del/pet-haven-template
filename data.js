@@ -3699,5 +3699,142 @@ const businesses = {
     }
   ],
   footerNewsletterDesc: "Grooming care and updates for your fluffy friends!"
- }
+ },
+  "shekinah_muddy_paws": {
+    "theme": "pet",
+    "name1": "SHEKINAH",
+    "name2": "MUDDY PAWS",
+    "color": "#4A7C59",
+    "bgColor": "#F4F7F4",
+    "accentColor": "#D3E2D4",
+    "textColor": "#2B4436",
+    "heroTitle": "Voted Best Grooming <br><span>In Barnsley</span>",
+    "heroDesc": "An open-plan, welfare-first grooming salon specializing in premium care for nervous, sensitive, and beloved pets.",
+    "heroImg": "assets/pet_store_img/transparent_pet_img.png",
+    "thoughtImg": "assets/pet_store_img/dogtreat_img.jpg",
+    "ctaText": "Book Appointment",
+    "phone": "01226 971597",
+    "email": "info@shekinahmuddypaws.co.uk",
+    "locationName": "Unit 5, 424 Carlton Road, Barnsley, S71 3HX",
+    "badges": [
+      { "icon": "fa-paw", "title": "Welfare First", "desc": "Calm, cage-free environment for anxious dogs." },
+      { "icon": "fa-award", "title": "Award Winning", "desc": "Voted among Barnsley's top groomers for years." },
+      { "icon": "fa-cut", "title": "Full Grooming", "desc": "From quick nail clips to luxury spa treatments." },
+      { "icon": "fa-cat", "title": "All Furry Pets", "desc": "Expert styling for dogs, cats, and rabbits." }
+    ],
+    "aboutTitle": "Our Welfare-First Mission",
+    "aboutDesc": "We operate a fully open-plan salon designed to reduce stress. Our focus is on the health, safety, and happiness of your pets during their pampering sessions.",
+    "aboutImgs": [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_bird.jpg",
+      "assets/pet_store_img/pet_store_3.jpg"
+    ],
+    "infoTitle": "Why Barnsley Trusts Us",
+    "infoPoints": [
+      "Open-plan layouts so pets never feel locked away.",
+      "Specialist care tailored specifically for nervous and elderly pets.",
+      "Highly experienced team using natural, luxury coat-care products."
+    ],
+    "infoBg": "assets/pet_store_img/pet_store_7.jpg",
+    "about2Tag": "About Our Salon",
+    "about2Title": "Caring for Barnsley's <span>Pets with Love</span>",
+    "about2Desc": "As a staple of the local community, Shekinah Muddy Paws has built its reputation on exceptional standards, safety, and a deep love for all animals.",
+    "about2Years": "9+",
+    "about2YearsLabel": "Years Top Rated",
+    "about2MainImg": "assets/pet_store_img/pet_store_4.jpg",
+    "about2AccentImg": "assets/pet_store_img/pet_store_7.jpg",
+    "about2Features": [
+      { "icon": "fa-cut", "title": "Handstripping & Styling", "desc": "Custom styling based on breed standards and lifestyle preferences." },
+      { "icon": "fa-sparkles", "title": "Spa Add-ons Available", "desc": "Deep conditioning coats, blueberry facials, and soothing skin therapies." },
+      { "icon": "fa-heartbeat", "title": "Hydrotherapy Nearby", "desc": "Proudly working alongside local pet wellness partners in Carlton." }
+    ],
+    "about2Stats": [
+      { "value": "200+", "label": "Facebook Reviews" },
+      { "value": "140+", "label": "Google Reviews" },
+      { "value": "3+", "label": "Years Running Voted Best" }
+    ],
+    "reviews": [
+      { "name": "Rebecca T.", "text": "The only place my nervous spaniel feels safe. They are incredibly patient." },
+      { "name": "Mark D.", "text": "Incredible grooming standard. Coat looks perfect and smells amazing for weeks." },
+      { "name": "Sarah L.", "text": "They genuinely care about the animals here. Absolute professionals." }
+    ],
+    "footerDesc": "Award-winning open-plan pet grooming salon in Barnsley.",
+    "footerLinks": [
+      { "label": "Home", "href": "#hero-section" },
+      { "label": "Services", "href": "#badges-container" },
+      { "label": "Our Salon", "href": "#about-main-card" },
+      { "label": "Reviews", "href": "#reviews-container" }
+    ],
+    "footerNewsletterDesc": "Join our newsletter for grooming advice and schedule openings!"
+  },
+  "amys_pet_spa": {
+    "theme": "pet",
+    "name1": "AMY'S",
+    "name2": "PET SPA",
+    "color": "#D4A373",
+    "bgColor": "#FAEDCD",
+    "accentColor": "#FEFAE0",
+    "textColor": "#D4A373",
+    "heroTitle": "Luxury 1-to-1 <br><span>Dog Grooming Studio</span>",
+    "heroDesc": "A peaceful, home-based luxury pet studio providing custom 1-on-1 grooming sessions and advanced dental care.",
+    "heroImg": "assets/pet_store_img/transparent_pet_img.png",
+   "thoughtImg": "assets/pet_store_img/dogtreat_img.jpg",
+    "ctaText": "Book a Session",
+    "phone": "07507 310642",
+    "email": "hello@amyspetspa.co.uk",
+    "locationName": "5 Palm Court, Skelmersdale, WN8",
+    "badges": [
+      { "icon": "fa-user-friends", "title": "1-on-1 Attention", "desc": "Private appointments with zero stressful distractions." },
+      { "icon": "fa-teeth", "title": "Teeth Cleaning", "desc": "Advanced cosmetic teeth cleaning without sedation." },
+      { "icon": "fa-home", "title": "Home Studio", "desc": "A cosy, cage-free luxury home environment." },
+      { "icon": "fa-shield-alt", "title": "Fully Insured", "desc": "Your pet's safety and comfort is completely guaranteed." }
+    ],
+    "aboutTitle": "Boutique Pampering",
+    "aboutDesc": "Founded in Skelmersdale, Amy's Pet Spa provides an exclusive, quiet alternative to loud commercial grooming salons. Your dog gets undivided love and attention.",
+    "aboutImgs": [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_bird.jpg",
+      "assets/pet_store_img/pet_store_3.jpg"
+    ],
+    "infoTitle": "The Boutique Difference",
+    "infoPoints": [
+      "Completely cage-free and stress-free environment.",
+      "Tailored 1-to-1 sessions meaning no other dogs are present.",
+      "Over a decade of professional animal handling experience."
+    ],
+    "infoBg": "assets/pet_store_img/pet_store_7.jpg",
+    "about2Tag": "Meet the Groomer",
+    "about2Title": "Providing Luxury Care <span>Since 2016</span>",
+    "about2Desc": "Amy's Pet Spa balances high-end styling with gentle handling techniques. Every groom is structured around your pup's pace to keep them relaxed and happy.",
+    "about2Years": "10",
+    "about2YearsLabel": "Years Experience",
+    "about2MainImg": "assets/pet_store_img/pet_store_4.jpg",
+    "about2AccentImg": "assets/pet_store_img/pet_store_7.jpg",
+    "about2Features": [
+      { "icon": "fa-bath", "title": "Luxury Full Grooms", "desc": "Includes premium hydro-baths, blow dries, precision clipping, and scissor styling." },
+      { "icon": "fa-smile", "title": "Ultrasonic Teeth Care", "desc": "Guards against plaque buildup and keeps breath incredibly fresh." },
+      { "icon": "fa-bone", "title": "Puppy Introductions", "desc": "Gentle first-time sessions to get puppies comfortable with grooming." }
+    ],
+    "about2Stats": [
+      { "value": "100%", "label": "Cage-Free" },
+      { "value": "1-to-1", "label": "Private Care" },
+      { "value": "5.0★", "label": "Client Rating" }
+    ],
+    "reviews": [
+      { "name": "Emma W.", "text": "Amy is brilliant. My dog used to hate groomers but he walks right into her studio!" },
+      { "name": "David P.", "text": "The ultrasonic teeth cleaning works miracles. Saved us a massive vet bill." },
+      { "name": "Chloe B.", "text": "Fabulous 1-on-1 service. Highly recommend the full spa package." }
+    ],
+    "footerDesc": "Private, luxury 1-to-1 home dog grooming studio in Skelmersdale.",
+    "footerLinks": [
+      { "label": "Home", "href": "#hero-section" },
+      { "label": "Perks", "href": "#badges-container" },
+      { "label": "Meet Amy", "href": "#about-main-card" },
+      { "label": "Reviews", "href": "#reviews-container" }
+    ],
+    "footerNewsletterDesc": "Subscribe for luxury pet care tips and studio updates!"
+   }
+  
 };

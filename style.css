@@ -1109,9 +1109,19 @@ html {
   width: 100%;
 }
 
+.footer h4 {
+  color: var(--accent-light);        
+  font-size: 1.2rem;          
+  font-weight: 600;           
+  margin-bottom: 20px;          
+  text-transform: uppercase;    
+  letter-spacing: 0.5px;      
+}
+
+
 .footer .logo {
   color: var(--accent-light);
 }
-.footer .logo span#footer-biz-name-2 {
+.footer .logo span {
   color: var(--white);
 }
