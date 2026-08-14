@@ -3835,6 +3835,75 @@ const businesses = {
       { "label": "Reviews", "href": "#reviews-container" }
     ],
     "footerNewsletterDesc": "Subscribe for luxury pet care tips and studio updates!"
-   }
+   },
+
+  "scruffy_pups_castletown": {
+    "theme": "pet",
+    "name1": "SCRUFFY",
+    "name2": "PUPS",
+    "color": "#2C6E49",
+    "bgColor": "#D8F3DC",
+    "accentColor": "#B7E4C7",
+    "textColor": "#2D6A4F",
+    "heroTitle": "Award-Winning <br><span>Dog Grooming in Castletown</span>",
+    "heroDesc": "A dedicated, family-run local salon providing professional and loving care tailored specifically to your dog's needs.",
+    "heroImg": "assets/pet_store_img/transparent_pet_img.png",
+    "thoughtImg": "assets/pet_store_img/dogtreat_img.jpg",
+    "ctaText": "Book an Appointment",
+    "phone": "07555 364239",
+    "email": "scruffypups@outlook.com",
+    "locationName": "11 Ethel Terrace, Castletown, Sunderland, SR5 3BQ",
+    "badges": [
+      { "icon": "fa-heart", "title": "Treated Like Family", "desc": "Every dog is treated with ultimate love, patience, and professional care." },
+      { "icon": "fa-award", "title": "Award-Winning", "desc": "Recognized locally for top-tier styling and exceptional customer satisfaction." },
+      { "icon": "fa-home", "title": "Local & Friendly", "desc": "A driven small family business embedded right in the heart of Sunderland." },
+      { "icon": "fa-shield-alt", "title": "Trusted Service", "desc": "Boasting a stellar 98% recommendation rate across hundreds of happy clients." }
+    ],
+    "aboutTitle": "Family-Run Passion",
+    "aboutDesc": "Founded and run by a dynamic mother-and-daughter team, Scruffy Pups Castletown pours genuine effort into ongoing training and first aid to ensure a fantastic, safe salon experience.",
+    "aboutImgs": [
+      "assets/pet_store_img/pet_store_1.jpg",
+      "assets/pet_store_img/pet_bunny_2.jpg",
+      "assets/pet_store_img/pet_bird.jpg",
+      "assets/pet_store_img/pet_store_3.jpg"
+    ],
+    "infoTitle": "The Scruffy Pups Touch",
+    "infoPoints": [
+      "Driven small family business focused on individual attention.",
+      "Continuous skills development and certified first-aid training.",
+      "Welcoming new and returning local fur babies with open arms."
+    ],
+    "infoBg": "assets/pet_store_img/pet_store_7.jpg",
+    "about2Tag": "Meet the Team",
+    "about2Title": "Grooming with Love <span>For Years</span>",
+    "about2Desc": "Our journey as a mother and daughter duo has been built on building lasting relationships with local dogs and their owners, ensuring each visit is calm, happy, and stress-free.",
+    "about2Years": "5+",
+    "about2YearsLabel": "Years Success",
+    "about2MainImg": "assets/pet_store_img/pet_store_4.jpg",
+    "about2AccentImg": "assets/pet_store_img/pet_store_7.jpg",
+    "about2Features": [
+      { "icon": "fa-cut", "title": "Full Breed Styling", "desc": "Professional clipping, scissoring, bathing, and drying for all coats." },
+      { "icon": "fa-paw", "title": "Summer & Seasonal Cuts", "desc": "Specialized maintenance and refreshing trims to keep pups cool." },
+      { "icon": "fa-smile", "title": "Gentle Handling", "desc": "Calm, reassuring techniques perfect for keeping dogs relaxed." }
+    ],
+    "about2Stats": [
+      { "value": "98%", "label": "Recommendation" },
+      { "value": "5★", "label": "Award Rating" },
+      { "value": "100%", "label": "Family Dedication" }
+    ],
+    "reviews": [
+      { "name": "Michelle K.", "text": "Absolute fantastic service, my dog always comes out looking and smelling gorgeous!" },
+      { "name": "Sharon D.", "text": "Wonderful local business. The girls are so caring and professional with the dogs." },
+      { "name": "Paula B.", "text": "Couldn't recommend Scruffy Pups enough. Truly wonderful mother and daughter team." }
+    ],
+    "footerDesc": "Professional local dog grooming by a mother and daughter team in Castletown, Sunderland.",
+    "footerLinks": [
+      { "label": "Home", "href": "#hero-section" },
+      { "label": "Perks", "href": "#badges-container" },
+      { "label": "About Us", "href": "#about-main-card" },
+      { "label": "Reviews", "href": "#reviews-container" }
+    ],
+    "footerNewsletterDesc": "Follow our page for slot updates and adorable dog transformations!"
+  }
   
 };
