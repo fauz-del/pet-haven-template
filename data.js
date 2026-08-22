@@ -3904,6 +3904,155 @@ const businesses = {
       { "label": "Reviews", "href": "#reviews-container" }
     ],
     "footerNewsletterDesc": "Follow our page for slot updates and adorable dog transformations!"
-  }
+  },
+  
+  "greenpaws_grooming": {
+  theme: "pet",
+  name1: "GREENPAWS",
+  name2: "GROOMING",
+  
+  color: "#C85C73",       
+  bgColor: "#FCEEEB",     
+  accentColor: "#DDE8D8", 
+  textColor: "#3A3435",   
+  heroTitle: "A Greener Way<br><span>to Groom.</span>",
+  heroDesc: "Eco-friendly dog grooming in Milnrow, with natural products, expert care and a genuine commitment to the wellbeing of pets and the environment.",
+  heroImg: "assets/pet_store_img/transparent_pet_img.png",
+  thoughtImg: "assets/pet_store_img/dogtreat_img.jpg",
+
+  ctaText: "Book a Groom",
+
+  phone: "01706 482038",
+  email: "greenpawsgrooming@hotmail.com",
+  locationName: "76 Dale St, Milnrow, Rochdale OL16 4HX",
+
+  badges: [
+    {
+      icon: "fa-leaf",
+      title: "Eco-Friendly",
+      desc: "Natural shampoos, conditioners and environmentally conscious salon practices."
+    },
+    {
+      icon: "fa-scissors",
+      title: "Expert Grooming",
+      desc: "Full grooms, mini grooms, puppy grooms, trims and breed-specific grooming."
+    },
+    {
+      icon: "fa-heart",
+      title: "Pet Wellbeing",
+      desc: "A caring approach focused on keeping every dog comfortable, happy and well cared for."
+    },
+    {
+      icon: "fa-paw",
+      title: "All Breeds Welcome",
+      desc: "Experienced with different breeds, coat types and individual grooming needs."
+    }
+  ],
+
+  aboutTitle: "A Passion for Paws",
+
+  aboutDesc: "GreenPaws Grooming was created by Cara Taylor and Jordan Perkins after studying Level 3 Animal Management at Hopwood Hall College. The pair turned their shared passion for animals into an eco-friendly dog grooming business, combining professional grooming with wider knowledge of pet care and wellbeing.",
+
+  aboutImgs: [
+    "assets/pet_store_img/pet_store_1.jpg",
+    "assets/pet_store_img/pet_bunny_2.jpg",
+    "assets/pet_store_img/pet_bird.jpg",
+    "assets/pet_store_img/pet_store_3.jpg"
+  ],
+
+  infoTitle: "Why GreenPaws Is Different",
+
+  infoPoints: [
+    "Eco-friendly approach using natural shampoos and conditioners.",
+    "Professional grooming combined with knowledge of pet nutrition and wellbeing.",
+    "A genuine focus on creating a welcoming, positive grooming experience for dogs.",
+    "Supporting pet owners with knowledge around specialist areas such as flea and worming care."
+  ],
+
+  infoBg: "assets/pet_store_img/pet_store_7.jpg",
+
+  about2Tag: "About Us",
+
+  about2Title: "Better Grooming,<br><span>Better for the Planet.</span>",
+
+  about2Desc: "GreenPaws Grooming was built around more than simply making dogs look great. The team takes an environmentally conscious approach to grooming while drawing on their animal-management background to provide thoughtful care. From natural products used in the salon to advice around nutrition and wellbeing, the goal is to give pets and their owners a better grooming experience.",
+
+  about2Years: "5+",
+  about2YearsLabel: "Years grooming",
+
+  about2MainImg: "assets/pet_store_img/pet_store_4.jpg",
+  about2AccentImg: "assets/pet_store_img/pet_store_7.jpg",
+
+  about2Features: [
+    {
+      icon: "fa-leaf",
+      title: "Natural Products",
+      desc: "Natural shampoos and conditioners are used as part of the salon's everyday grooming approach."
+    },
+    {
+      icon: "fa-paw",
+      title: "Animal Expertise",
+      desc: "The team has an animal-management background and knowledge covering nutrition and pet wellbeing."
+    },
+    {
+      icon: "fa-heart",
+      title: "Happy, Comfortable Dogs",
+      desc: "A welcoming environment where dogs receive patient, attentive care throughout their groom."
+    }
+  ],
+
+  about2Stats: [
+    {
+      value: "2020",
+      label: "Established"
+    },
+    {
+      value: "5+",
+      label: "Years of care"
+    },
+    {
+      value: "4.8★",
+      label: "Rated locally"
+    }
+  ],
+
+  reviews: [
+    {
+      name: "[Verified Reviewer]",
+      text: "We were welcomed immediately and the team made both me and my nervous dog feel completely comfortable. He was calm and happy with his new groomers."
+    },
+    {
+      name: "[Verified Reviewer]",
+      text: "My Pomeranian has been going to GreenPaws since his first groom. The team always does an amazing job and goes above and beyond."
+    },
+    {
+      name: "[Verified Reviewer]",
+      text: "They gave us advice on getting our puppy used to grooming and have continued to groom her perfectly, always checking exactly how we want her coat finished."
+    }
+  ],
+
+  footerDesc: "Eco-friendly professional dog grooming in Milnrow, Rochdale, with pet wellbeing at heart.",
+
+  footerLinks: [
+    {
+      label: "Home",
+      href: "#hero-section"
+    },
+    {
+      label: "Benefits",
+      href: "#badges-container"
+    },
+    {
+      label: "Our Story",
+      href: "#about-main-card"
+    },
+    {
+      label: "Reviews",
+      href: "#reviews-container"
+    }
+  ],
+
+  footerNewsletterDesc: "Get grooming tips, pet care advice and GreenPaws updates!"
+}
   
 };
